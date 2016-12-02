@@ -1,5 +1,6 @@
 # SI206-Proj4-PyGame
  
+## Bharat Nair - bnair
 ## Project 4 - PyGame
 ## Fall 2016 - SI 206 - University of Michigan, Ann Arbor 
 
